@@ -44,8 +44,7 @@ _"Today is tomorrow's history. Make your history better!"_ → That's the motto 
 
 <h3> 👋 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/cosmin-ghirisan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cosmin%20Ghirisan-blue?style=flat-square&logo=linkedin"></a>
-  <br/>
-<a href="mailto:ghirisancosmin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ghirisancosmin@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+-
+  <a href="https://www.linkedin.com/in/cosmin-ghirisan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cosmin%20Ghirisan-blue?style=flat-square&logo=linkedin"></a>
+-
+  <a href="mailto:ghirisancosmin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ghirisancosmin@gmail.com-blue?style=flat-square&logo=gmail"></a>
